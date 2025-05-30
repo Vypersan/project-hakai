@@ -12,6 +12,7 @@ All rights reserved &copy; 2022 - 2025
 - HakaiVision
 - HakaiTMAP
 - HakaiComm
+- HakaiMCenter
 
 
 ## HakaiVision
@@ -33,3 +34,5 @@ HakaiTMAP is an extension to HakaiVision and serves as the monitor for it all. M
 ## HakaiComm
 HakaiComm is a one-way encrypted information and alerting system. Aimed to dispatch essential information towards squads in a secure and "No bullshit" way. Messages are encrypted and no client will store messages. If for some reason one client falls out of reach of the control server, shuts down or otherwise is unable to retrieve messages. It will be able to re-retrieve missed messages upon reboot as long as a connection is able to be made to the control server.
 
+## HakaiMCenter [WIP]
+HakaiMCenter is a mobile lightweight system monitor that can be setup in a matter of seconds. Providing remote controls for all projects, view status and precise geo-locations of all devices utilized by PROJECT HAKAI. 
