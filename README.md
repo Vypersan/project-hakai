@@ -12,7 +12,7 @@ All rights reserved &copy; 2022 - 2025
 - HakaiVision
 - HakaiTMAP
 - HakaiComm
-- [HakaiMCenter](#HakaiMcenter) 
+- [HakaiMCenter](HakaiMCenter [WIP]) 
 
 
 ## HakaiVision
