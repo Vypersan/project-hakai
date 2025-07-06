@@ -4,7 +4,7 @@ PROJECT HAKAI (Formerly known as PROJECT #03) is a multi purpose toolkit aimed a
 This repo servers as a wiki / intel page containing the general idea of what it contains.
 
 # Notice
-No one is allowed to share, modify, re-distribute or otherwise spread, send, share the code, it's contents, it's files or any other "Data" from any of these projects. I will not respond to in-depth questions about the workings, provide code snippets or provide access. 
+No one is allowed to share, modify, re-distribute or otherwise spread, send, share the code, it's contents, it's files or any other "Data" from any of these projects. I will not respond to in-depth questions about the workings, provide code snippets or provide access to individuals, non-ethical groups / "Squads" or anyone with malicious intent due to the privacy concerns this project can pose.
 
 All rights reserved &copy; 2022 - 2025
 
