@@ -21,7 +21,7 @@ Crisis vision (CVision) is an autonomous security drone that is focused on intel
 P7077 is a one-way encrypted communication network. Aimed to provide essential intel or information across teams and personnel in real time. Offering backup protocols to re-collect missed intel, this network can make sure you retrieve any necessary or urgent information even after a shutdown, loss of contact or other unexpected behavior.
 
 ### TMap
-ThreatMap (Mmap) serves as an extension to [Crisis Vision](#crisis-vision). Showcasing, logging and alerting any user of detected threats, their geo-location and other essential information in real-time to keep the situation under control and even give users not actively at the location insight into what is going at the drone's location.
+ThreatMap (TMap) serves as an extension to [Crisis Vision](#crisis-vision). Showcasing, logging and alerting any user of detected threats, their geo-location and other essential information in real-time to keep the situation under control and even give users not actively at the location insight into what is going at the drone's location.
 
 ### MCenter
 The Mobile Center (MCenter) serves as a remote control endpoint for all of PROJECT HAKAI. Allowing active monitoring of all of PROJECT HAKAI's tools and running devices.
