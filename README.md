@@ -10,7 +10,7 @@ July 10th 2025  03:29AM
 - [Mcenter](#mcenter)
 
 ### Introduction:
-PROJECT HAKAI (Formerly known as "PROJECT-03") is a security focused toolset and TAK (Tactical Awareness Kit) project. Aiming to provide a technical advantage on the field for teams, groups or individuals and to give them an extra edge to latch on to.
+PROJECT HAKAI (Formerly known as "PROJECT-03") is a security focused toolset and TAK (Tactical Awareness Kit) project. Aiming to provide a technical advantage on the field for teams, groups or individuals and to give them an extra ledge to latch on to.
 
 **NOTE**: No one is allowed to (re)publish, re-distribute, modify, clone or otherwise share the code to anyone at any given time. I will **NEVER** publish the source code, snippets, overviews or other bits of information here on GitHub or any other platform. Due to the potential privacy concerns, I will **NOT** share builds or access to individuals, groups or teams with vague, malicious, unclear or other intent that I deem unsafe. &copy; 2024 - 2025, All rights reserved. 
 
