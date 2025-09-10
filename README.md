@@ -1,5 +1,5 @@
 ## Last updated:
-September 1st 08:30PM
+September 10th 08:30PM
 
 ## Current version:
 V2.0.2
