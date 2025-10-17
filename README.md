@@ -1,8 +1,8 @@
 ## Last updated:
-August 29th 2025  10:29AM
+Oktober 17th 2025  12:30PM
 
 ## Current version:
-V2.0.2
+V2.0.3
 
 
 ## Table of content:
@@ -10,6 +10,7 @@ V2.0.2
 - [Crisis Vision](#crisis-vision)
 - [P7077](#p7077)
 - [TMap](#tmap)
+- [BioAccess](#bioaccess-wip)
 - [Mcenter](#mcenter)
 - [Contact:](#additional-notes)
 
@@ -35,6 +36,13 @@ Some (But not all) monitor data includes:
 - Control options
 
 And more. 
+
+### BioAccess [WIP]
+BioAccess is an Access Control system that allows personnel to "unlock" or gain access to devices/doors/any physical matter secured by it by completing a two-step security check, requiring both facial data and biometric data (fingerprints).
+This can be paired with [Crisis Vision](#crisis-vision) or ran on it's own.  All access is logged and checks can both be ran locally or over the net depending on the use case. Multiple security measures are put in place to prevent unauthorized duplication of "authorized" users, such as but not limited to:
+- Military grade encryption
+- Hashing 
+- Protected data storing.
 
 
 ### Additional notes:
