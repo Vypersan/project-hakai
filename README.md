@@ -17,7 +17,7 @@ V2.0.3
 ### Introduction:
 PROJECT HAKAI V2.0(Formerly known as "PROJECT-03") is a security project focused on autonomous intelligence collection and distribution.
 
-**NOTE**: No one is allowed to (re)publish, (re-)distribute, modify, clone or otherwise share the code to anyone at any given time. I will **NEVER** publish the source code, snippets, overviews or other bits of code here on GitHub or any other platform. Due to the potential privacy concerns, I will **NOT** share builds or access to individuals, groups or teams with vague, malicious, unclear or other intent that I deem unsafe. &copy; 2024 - 2025, All rights reserved. 
+**NOTE**: No one is allowed to (re)publish, (re-)distribute, modify, clone or otherwise share the code to anyone at any given time. I will **NEVER** publish the source code, snippets, overviews or other bits of code here on GitHub or any other platform. Due to the potential privacy concerns, I will **NOT** share builds or access to individuals, groups or teams with vague, malicious, unclear or other intent that I deem unsafe. &copy; 2024 - 2026, All rights reserved. 
 
 ### Crisis Vision
 Crisis vision (CVision) is an autonomous security drone that is focused on intel collection and perimeter overwatch in areas that are small or otherwise hard to reach for humans. Equipped with facial recognition, military-grade encryption, remote control, this drone can offer security quickly and effectively almost anywhere.
